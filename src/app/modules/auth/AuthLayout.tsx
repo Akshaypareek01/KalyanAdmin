@@ -75,7 +75,7 @@ const AuthLayout = () => {
 
           {/* begin::Title */}
           <h1 className='text-white fs-2qx fw-bolder text-center mb-7 '>
-           MAA LAXMI ADMIN PANNEL
+           Milan Matka Admin Panel
           </h1>
           {/* end::Title */}
 
